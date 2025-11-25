@@ -1,3 +1,7 @@
+# Viết chương trình nhận vào tên file, sau đó đọc và tính SHA-256 của nội dung file. 
+# Chương trình nên viết ở dạng command line, tham số đầu vào là tên file. 
+# Chương trình chỉ in ra một dòng duy nhất là Hash SHA-256 ở dạng hex. 
+# Lưu ý: có thể sử dụng thư viện, không cần tự viết hàm tính SHA-256. 
 import sys
 import hashlib
 
