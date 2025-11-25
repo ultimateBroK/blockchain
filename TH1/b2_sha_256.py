@@ -23,7 +23,7 @@ def compute_sha256(filename):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Cách dùng: python sha_256.py <input_file>")
+        print("Cách dùng: python b2_sha_256.py <input_file>")
         sys.exit(1)
         
     filename = sys.argv[1]
