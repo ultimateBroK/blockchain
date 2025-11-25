@@ -1,0 +1,9 @@
+.venv
+
+/experiment
+
+TH1/__pycache__
+TH1/test.txt
+TH1/test1.txt
+
+Blockchain_L1.pdf
